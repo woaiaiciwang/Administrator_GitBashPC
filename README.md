@@ -2,3 +2,4 @@
 anything 
 git clone first
 git pull first
+git pull second
